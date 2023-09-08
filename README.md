@@ -1,1 +1,3 @@
 # Ponderada3
+
+## Modelo
