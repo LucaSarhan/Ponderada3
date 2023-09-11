@@ -7,4 +7,4 @@ Em seguida, realizei as etapas de extração, transformação e carregamento (ET
 
 Com base nos resultados desse processo, selecionarei o modelo que demonstrou o melhor desempenho. Posteriormente, estabelecerei a conexão com a minha API, permitindo que o modelo seja acessado e utilizado de forma eficaz.
 
-Link do meu video funcional[https://drive.google.com/file/d/1S5WgJvf85DlVYudWim1dTKVj-RX-CC93/view?usp=sharing]
+[Link do meu video funcional](https://drive.google.com/file/d/1S5WgJvf85DlVYudWim1dTKVj-RX-CC93/view?usp=sharing)
