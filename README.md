@@ -12,3 +12,6 @@ Com base nos resultados desse processo, selecionarei o modelo que demonstrou o m
 [Link do meu colab](https://colab.research.google.com/drive/14lBdUNejKqsT8Vb8utNjR1Nbpsqdx9gG#scrollTo=xSIX0g0qHE26)
 
 Para rodar o colab, basta clicar no botâo chamado 'runtime' e depois clicar em 'runtime'
+
+## Estrutura
+O projeto tem um coponente funcional o colab. O notebook do colab faz toda a parte de pré-processamento e normalização dos dados e o treinamento do modelo autoML do PyCaret. O modelo com maior acurácia é salvo e seria utilizado pela api posteriormente. O modelo com maior acurácia no meu caso foi o XGBClassifier
