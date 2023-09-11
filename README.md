@@ -8,3 +8,6 @@ Em seguida, realizei as etapas de extração, transformação e carregamento (ET
 Com base nos resultados desse processo, selecionarei o modelo que demonstrou o melhor desempenho. Posteriormente, estabelecerei a conexão com a minha API, permitindo que o modelo seja acessado e utilizado de forma eficaz.
 
 [Link do meu video funcional](https://drive.google.com/file/d/1S5WgJvf85DlVYudWim1dTKVj-RX-CC93/view?usp=sharing)
+
+[Link do meu colab](https://colab.research.google.com/drive/14lBdUNejKqsT8Vb8utNjR1Nbpsqdx9gG#scrollTo=xSIX0g0qHE26)
+Para rodar o colab, basta clicar no botâo chamado 'runtime' e depois clicar em 'runtime'
