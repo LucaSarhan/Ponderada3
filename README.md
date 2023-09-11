@@ -6,3 +6,5 @@ Optei por utilizar os dados relacionados aos acidentes em estradas brasileiras c
 Em seguida, realizei as etapas de extração, transformação e carregamento (ETL) dos dados, garantindo que estivessem em um formato adequado para possibilitar previsões precisas. Uma vez concluída essa etapa, chegou o momento de decidir qual modelo utilizar para a construção do meu sistema de previsão. Para fazer essa escolha de forma informada, executei um processo de aprendizado de máquina automatizado (AutoML) que avaliou diversos modelos e suas configurações.
 
 Com base nos resultados desse processo, selecionarei o modelo que demonstrou o melhor desempenho. Posteriormente, estabelecerei a conexão com a minha API, permitindo que o modelo seja acessado e utilizado de forma eficaz.
+
+Link do meu video funcional[https://drive.google.com/file/d/1S5WgJvf85DlVYudWim1dTKVj-RX-CC93/view?usp=sharing]
