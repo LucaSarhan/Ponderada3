@@ -10,4 +10,5 @@ Com base nos resultados desse processo, selecionarei o modelo que demonstrou o m
 [Link do meu video funcional](https://drive.google.com/file/d/1S5WgJvf85DlVYudWim1dTKVj-RX-CC93/view?usp=sharing)
 
 [Link do meu colab](https://colab.research.google.com/drive/14lBdUNejKqsT8Vb8utNjR1Nbpsqdx9gG#scrollTo=xSIX0g0qHE26)
+
 Para rodar o colab, basta clicar no botâo chamado 'runtime' e depois clicar em 'runtime'
