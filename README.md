@@ -15,3 +15,4 @@ Para rodar o colab, basta clicar no botâo chamado 'runtime' e depois clicar em 
 
 ## Estrutura
 O projeto tem um coponente funcional o colab. O notebook do colab faz toda a parte de pré-processamento e normalização dos dados e o treinamento do modelo autoML do PyCaret. O modelo com maior acurácia é salvo e seria utilizado pela api posteriormente. O modelo com maior acurácia no meu caso foi o XGBClassifier
+O script do python com nome 'minha_api.py' é o arquivo principal da API da FastAPI. Nessa API é carregado o modelo do PyCaret. A previsão do modelo é rertornado como um resposta da api.
